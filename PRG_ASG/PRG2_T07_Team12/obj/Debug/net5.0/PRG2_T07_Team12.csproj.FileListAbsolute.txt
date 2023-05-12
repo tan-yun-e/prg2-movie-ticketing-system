@@ -1,0 +1,16 @@
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\bin\Debug\net5.0\PRG2_T07_Team12.exe
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\bin\Debug\net5.0\PRG2_T07_Team12.deps.json
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\bin\Debug\net5.0\PRG2_T07_Team12.runtimeconfig.json
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\bin\Debug\net5.0\PRG2_T07_Team12.runtimeconfig.dev.json
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\bin\Debug\net5.0\PRG2_T07_Team12.dll
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\bin\Debug\net5.0\ref\PRG2_T07_Team12.dll
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\bin\Debug\net5.0\PRG2_T07_Team12.pdb
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\obj\Debug\net5.0\PRG2_T07_Team12.csproj.AssemblyReference.cache
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\obj\Debug\net5.0\PRG2_T07_Team12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\obj\Debug\net5.0\PRG2_T07_Team12.AssemblyInfoInputs.cache
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\obj\Debug\net5.0\PRG2_T07_Team12.AssemblyInfo.cs
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\obj\Debug\net5.0\PRG2_T07_Team12.csproj.CoreCompileInputs.cache
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\obj\Debug\net5.0\PRG2_T07_Team12.dll
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\obj\Debug\net5.0\ref\PRG2_T07_Team12.dll
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\obj\Debug\net5.0\PRG2_T07_Team12.pdb
+C:\Users\tye97\Documents\Ngee Ann\Year 1\Semester 2\PRG 2\PRG_ASG\PRG2_T07_Team12\obj\Debug\net5.0\PRG2_T07_Team12.genruntimeconfig.cache
